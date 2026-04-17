@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SchoolEgePlatform.Api/SchoolEgePlatform.Api.csproj" />
+  <Project Path="SchoolEgePlatform.Application/SchoolEgePlatform.Application.csproj" />
+  <Project Path="SchoolEgePlatform.Domain/SchoolEgePlatform.Domain.csproj" />
+  <Project Path="SchoolEgePlatform.Infrastructure/SchoolEgePlatform.Infrastructure.csproj" />
+</Solution>

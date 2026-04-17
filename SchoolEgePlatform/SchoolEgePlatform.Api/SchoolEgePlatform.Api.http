@@ -1,0 +1,6 @@
+@SchoolEgePlatform.Api_HostAddress = http://localhost:5215
+
+GET {{SchoolEgePlatform.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
